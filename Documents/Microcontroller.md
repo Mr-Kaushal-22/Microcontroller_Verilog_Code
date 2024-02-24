@@ -1,11 +1,9 @@
-# Microcontroller_Verilog_Code
-
 
 # Entity: Microcontroller 
 - **File**: Microcontroller.v
 
 ## Diagram
-![Diagram](Documents/Microcontroller.svg "Diagram")
+![Diagram](Microcontroller.svg "Diagram")
 ## Ports
 
 | Port name | Direction | Type | Description |
@@ -87,4 +85,4 @@
 
 ## State machines
 
-![Diagram_state_machine_0]( Documents/fsm_Microcontroller_00.svg "Diagram")
+![Diagram_state_machine_0]( fsm_Microcontroller_00.svg "Diagram")
